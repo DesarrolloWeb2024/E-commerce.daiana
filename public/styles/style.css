@@ -1,6 +1,6 @@
 body {
-    background-color: #226db3ee;
-    font-family: 'Open Sans Condensed', sans-serif;
+    background-color: #ffb4e2;
+    font-family: 'Poppins', sans-serif;
 }
 
 a {
@@ -51,7 +51,7 @@ a {
 }
 
 .site-logo a {
-    color: #0a4a92;
+    color: #ffb4e2;
     text-decoration: none;
 }
 
@@ -93,7 +93,7 @@ a {
 }
 
 .product-item {
-    box-shadow: #1e5ab3 0 0 10px 1px;
+    box-shadow: #ffb4e2 0 0 10px 1px;
 }
 
 .product-item:hover {
@@ -103,7 +103,7 @@ a {
 .product-name {
     font-size: 1.2rem;
     font-weight: 600;
-    color: #014eb3;
+    color: #ffb4e2;
     text-decoration: none;
 }
 
@@ -111,7 +111,7 @@ a {
     font-size: 21px;
     line-height: 1.3;
     font-family: 'Open Sans', sans-serif;
-    color: #0011ff;
+    color: #ffb4e2;
 }
 
 .product-name small {
@@ -157,7 +157,7 @@ a.product-name:hover, a.product-name:focus {
 }
 
 .footer-logo a, .footer-nav a{
-    color: #316dee;
+    color: #ffb4e2;
     text-decoration: none;
 }
 
@@ -179,13 +179,13 @@ a.product-name:hover, a.product-name:focus {
 
 
 .social-icon {
-    color: #e0e0e0;
+    color: #ffb4e2;
     font-size: 13px;
     margin-right: 10px;
 }
 
 .footer-logo a:hover, .footer-logo a:focus, .footer-nav a:hover, .footer-nav a:focus, .social-icon:hover, .social-icon:focus {
-    color: #fff;
+    color: ffb4e2;
 }
 
 .product-item {
